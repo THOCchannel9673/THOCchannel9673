@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/THOCchannel9673/THOCchannel9673
+build-by-default: true
+branches:
+- master
+projects: []
+...
